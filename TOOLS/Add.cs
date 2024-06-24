@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static hackathon_final_build.Globals;
+using static hackathon_prefinal_build.Globals;
 
 namespace hackathon_prefinal_build
 {

@@ -151,7 +151,7 @@ namespace hackathon_prefinal_build
             Console.Clear();
             if (currentRole == "Admin")
             {
-                Console.WriteLine($" Ты уверен, что хочешь удалить объект?\n[Y/n]: ");
+                Console.WriteLine($" Ты уверен, что хочешь удалить объект?\n [Y/n]: ");
                 string? choice = Console.ReadLine();
 
                 if (choice == "Y" || choice == "y")

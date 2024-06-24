@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static hackathon_prefinal_build.Globals;
 
-namespace hackathon_final_build
+namespace hackathon_prefinal_build
 {
     internal class USERS
     {

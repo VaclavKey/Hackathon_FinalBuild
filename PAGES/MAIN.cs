@@ -13,8 +13,6 @@ namespace hackathon_prefinal_build
         {
             Console.Clear();
 
-            XML_loader.LoadQuery("Xml_qer.xml");
-
             Console.WriteLine(
             " -------------------------- \n" +
             " |      ГЛАВНОЕ МЕНЮ      | \n" +

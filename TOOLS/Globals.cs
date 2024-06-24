@@ -11,8 +11,8 @@ namespace hackathon_prefinal_build
         public enum Screen { SIGN_IN, MAIN, OBJECTS, STATS, SEARCH, CARD, TASKLIST, TASK, TASKS, USERS };
         public static Screen currentScreen = Screen.SIGN_IN;
 
-        public static string directory = @"C:\Users\scout\source\repos\hackathon_prefinal_build\hackathon_prefinal_build\bin\Debug\net8.0\";
-        public static string connectionSql = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\scout\source\repos\hackathon_prefinal_build\hackathon_prefinal_build\DB.mdf;Integrated Security=True";
+        public static string directory = @"" // Здесь нужно указать директорию, откуда брать XML-файлы;
+        public static string connectionSql = @"" // Здесь нужно указать строку подключения к базе данных;
         public static string currentRole = "Admin";
 
         public static List<int> CurrentBuildingIDs = [];

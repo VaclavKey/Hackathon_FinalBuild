@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Data.SqlClient;
-using static hackathon_final_build.Globals;
+using static hackathon_prefinal_build.Globals;
 
 
 namespace hackathon_prefinal_build
